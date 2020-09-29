@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559987076603",
+    "firebase_url": "https://simple-flutter-app-f7bb8.firebaseio.com",
+    "project_id": "simple-flutter-app-f7bb8",
+    "storage_bucket": "simple-flutter-app-f7bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559987076603:android:305cd127a75998fe446f5e",
+        "android_client_info": {
+          "package_name": "com.tauqeer.simple_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559987076603-kmrftda5h4fgrbd8e8c1he6o2phml3b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpE1x-eSiHNVBVLh7h4WYBSGEZBgw5BcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559987076603-kmrftda5h4fgrbd8e8c1he6o2phml3b2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559987076603-fnsolq0pf2189e4ahpinoiqjoh01c1l5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tauqeer.simpleFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
